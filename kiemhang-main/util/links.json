@@ -1,0 +1,23 @@
+{
+    "CLIENT": {
+
+        "AUTHENTICATION_LOGIN"  : "/authentication/login/local",
+
+        "AUTHENTICATION_CREATE_ACCESSTOKEN" : "/authentication/accesstoken",
+
+        "AUTHENTICATION_REGISTER" : "/authentication/register",
+
+        "AUTHENTICATION_FORGET_PW" : "/authentication/forget/pw",
+
+        "AUTHENTICATION_UPDATE_PW" : "/authentication/update/pw",
+
+        "PRODUCT_IMPORT" : "/product/import/:idImport",
+
+        "PRODUCT_EXPORT" : "/product/export/:idExport",
+
+        "REPORT_IMPORT_PRODUCT" : "/report/product/import",
+
+        "REPORT_EXPORT_PRODUCT" : "/report/product/export"
+
+    }
+}
